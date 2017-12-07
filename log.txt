@@ -1,0 +1,248 @@
+
+Tue Dec 05 2017 20:32:05 GMT-0600 (CST) undefined undefined
+Tue Dec 05 2017 20:32:23 GMT-0600 (CST) undefined undefined
+Tue Dec 05 2017 20:32:53 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 20:34:24 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 20:53:43 GMT-0600 (CST) bonus undefined
+Tue Dec 05 2017 21:11:55 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:17:42 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:19:16 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:34:22 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:35:34 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:36:11 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:41:48 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:45:20 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:46:51 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:47:42 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:48:51 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:49:55 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:50:15 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:50:40 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:50:54 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 21:52:19 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 22:08:46 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 22:26:15 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 22:27:49 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 22:43:44 GMT-0600 (CST) my-tweets undefined
+Tue Dec 05 2017 22:57:15 GMT-0600 (CST) /usr/local/bin/node,/Users/mary/Desktop/HW/liri-node-app/liri.js,my-tweets
+Tue Dec 05 2017 23:01:49 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Tue Dec 05 2017 23:03:01 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Tue Dec 05 2017 23:18:03 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsdobonus
+Tue Dec 05 2017 23:18:45 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsdobonus
+Tue Dec 05 2017 23:20:31 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsdobonus
+Tue Dec 05 2017 23:21:21 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsdobonus
+Tue Dec 05 2017 23:30:40 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Tue Dec 05 2017 23:31:54 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Tue Dec 05 2017 23:53:01 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotifythis
+Tue Dec 05 2017 23:54:52 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-song
+Tue Dec 05 2017 23:58:09 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-song
+Wed Dec 06 2017 08:26:44 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thismulan
+Wed Dec 06 2017 08:35:34 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thismulan
+Wed Dec 06 2017 08:37:50 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 08:39:04 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 08:42:59 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 08:45:45 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthelastsamurai
+Wed Dec 06 2017 08:48:38 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisdinasaur
+Wed Dec 06 2017 08:54:22 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thismatrix
+Wed Dec 06 2017 09:00:50 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthematrix
+Wed Dec 06 2017 09:01:02 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthelastsamurai
+Wed Dec 06 2017 12:03:54 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Wed Dec 06 2017 12:31:53 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthenotebook
+Wed Dec 06 2017 14:41:17 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songiwantitthatway
+Wed Dec 06 2017 14:45:07 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songiwantitthatway
+Wed Dec 06 2017 14:50:11 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Wed Dec 06 2017 14:53:36 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Wed Dec 06 2017 15:40:53 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songwhatawonderfulworld
+Wed Dec 06 2017 15:41:21 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songcallmemaybe
+Wed Dec 06 2017 18:42:43 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songwhatawonderfulworld
+Wed Dec 06 2017 19:15:33 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songcallmemaybe
+Wed Dec 06 2017 21:55:49 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songcallmemaybe
+Wed Dec 06 2017 22:06:46 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 22:06:46 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Wed Dec 06 2017 22:07:11 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 22:07:11 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Wed Dec 06 2017 22:19:54 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songcallmemaybe
+Wed Dec 06 2017 22:20:54 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsspotify-this-songcallmemaybe
+Wed Dec 06 2017 22:26:18 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthenotebook
+Wed Dec 06 2017 22:27:09 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthematrix
+Wed Dec 06 2017 22:27:25 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thislordoftherings
+Wed Dec 06 2017 22:27:39 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thislordofthering
+Wed Dec 06 2017 22:28:05 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthelastsamurai
+Wed Dec 06 2017 22:28:20 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thiskaratekid
+Wed Dec 06 2017 22:30:16 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thiskaratekid
+Wed Dec 06 2017 22:30:26 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthelastsamurai
+Wed Dec 06 2017 22:32:24 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthelastsamurai
+Wed Dec 06 2017 22:32:36 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thiskaratekid
+Wed Dec 06 2017 22:33:02 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisbeautyandthebeast
+Wed Dec 06 2017 22:35:25 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweets
+Wed Dec 06 2017 22:44:42 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 22:48:29 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 22:49:28 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 22:49:28 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweet
+Wed Dec 06 2017 22:49:28 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 22:49:28 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthelastsamurai
+Wed Dec 06 2017 22:51:18 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsbonus
+Wed Dec 06 2017 22:51:18 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmy-tweet
+Wed Dec 06 2017 22:51:18 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 22:51:18 GMT-0600 (CST) /usr/local/bin/node/Users/mary/Desktop/HW/liri-node-app/liri.jsmovie-thisthelastsamurai
+Wed Dec 06 2017 22:55:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 22:55:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 22:55:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweet
+Wed Dec 06 2017 22:55:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:06:07 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:06:07 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweet
+Wed Dec 06 2017 23:06:07 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:06:07 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:07:54 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:07:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweet
+Wed Dec 06 2017 23:07:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:07:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:09:47 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:09:47 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweet
+Wed Dec 06 2017 23:09:47 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:09:47 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:13:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:13:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:13:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:13:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:13:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song what a wonderful world
+Wed Dec 06 2017 23:19:45 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:19:45 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:19:45 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:19:45 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:19:45 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song what a wonderful world
+Wed Dec 06 2017 23:20:41 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:20:41 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:20:41 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:20:41 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:21:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:21:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:21:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:21:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:22:22 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this karate kid
+Wed Dec 06 2017 23:22:37 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this snow white
+Wed Dec 06 2017 23:22:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:23:15 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:24:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Wed Dec 06 2017 23:24:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:24:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:24:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:24:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:24:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:30:02 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Wed Dec 06 2017 23:30:03 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:30:03 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:30:03 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:30:03 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:30:03 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:31:45 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Wed Dec 06 2017 23:31:46 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:31:46 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:31:46 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:31:46 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:31:46 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:33:07 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Wed Dec 06 2017 23:33:08 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:33:08 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:33:08 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:33:08 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:33:08 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:40:26 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Wed Dec 06 2017 23:40:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:40:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this the sign
+Wed Dec 06 2017 23:40:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this call me maybe
+Wed Dec 06 2017 23:40:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:40:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:40:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:40:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:41:17 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Wed Dec 06 2017 23:41:17 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:41:17 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:41:17 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:41:17 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:41:17 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song call me maybe
+Wed Dec 06 2017 23:41:17 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:41:18 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song the sign
+Wed Dec 06 2017 23:42:42 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Wed Dec 06 2017 23:42:43 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Wed Dec 06 2017 23:42:43 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Wed Dec 06 2017 23:42:43 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this cinderella
+Wed Dec 06 2017 23:42:43 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Wed Dec 06 2017 23:42:43 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Wed Dec 06 2017 23:42:43 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Wed Dec 06 2017 23:43:20 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this perfume
+Wed Dec 06 2017 23:43:58 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this jason bourne
+Wed Dec 06 2017 23:45:07 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this la la land
+Wed Dec 06 2017 23:45:18 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this drive
+Wed Dec 06 2017 23:46:01 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this edward scissorhands
+Wed Dec 06 2017 23:46:18 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this charlie the chocolate factory
+Wed Dec 06 2017 23:46:47 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this pirates of the carribean
+Wed Dec 06 2017 23:47:04 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this alice in wonderland
+Wed Dec 06 2017 23:48:05 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this x-men
+Wed Dec 06 2017 23:48:13 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this wolverine
+Wed Dec 06 2017 23:48:38 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this becoming jane
+Wed Dec 06 2017 23:48:52 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this jane austen
+Wed Dec 06 2017 23:50:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the bourne supremacy
+Wed Dec 06 2017 23:50:53 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this logan
+Wed Dec 06 2017 23:51:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this kate
+Wed Dec 06 2017 23:53:20 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this hunger games
+Wed Dec 06 2017 23:53:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this mocking jan
+Wed Dec 06 2017 23:53:58 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this mocking jay
+Wed Dec 06 2017 23:54:15 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this robocop
+Wed Dec 06 2017 23:54:25 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this fifth element
+Thu Dec 07 2017 00:06:57 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Thu Dec 07 2017 00:07:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Thu Dec 07 2017 00:07:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this cinderella
+Thu Dec 07 2017 00:07:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Thu Dec 07 2017 00:07:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Thu Dec 07 2017 00:07:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Thu Dec 07 2017 00:07:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Thu Dec 07 2017 00:07:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Thu Dec 07 2017 00:07:57 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this ever after
+Thu Dec 07 2017 00:08:24 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this everafter
+Thu Dec 07 2017 00:08:40 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this cinderalla
+Thu Dec 07 2017 00:09:12 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this tagalog
+Thu Dec 07 2017 00:09:25 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this pilipino
+Thu Dec 07 2017 00:09:38 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this jose rizal
+Thu Dec 07 2017 12:04:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js bonus
+Thu Dec 07 2017 12:04:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Thu Dec 07 2017 12:04:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Thu Dec 07 2017 12:04:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this cinderella
+Thu Dec 07 2017 12:04:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Thu Dec 07 2017 12:04:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Thu Dec 07 2017 12:04:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Thu Dec 07 2017 12:07:00 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song do you want to be a snowman
+Thu Dec 07 2017 12:07:23 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song my house
+Thu Dec 07 2017 12:07:38 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song do you want to build a snowman
+Thu Dec 07 2017 12:52:46 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Thu Dec 07 2017 12:57:14 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song my house
+Thu Dec 07 2017 12:57:32 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song my house
+Thu Dec 07 2017 13:00:33 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song my house
+Thu Dec 07 2017 13:01:19 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song my house
+Thu Dec 07 2017 13:03:58 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song my house
+Thu Dec 07 2017 17:12:55 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Thu Dec 07 2017 17:14:29 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:22:43 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:22:51 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:24:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:25:02 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:25:08 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:25:32 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:26:09 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song holiday
+Thu Dec 07 2017 17:26:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js spotify-this-song
+Thu Dec 07 2017 17:27:28 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Thu Dec 07 2017 17:30:27 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this
+Thu Dec 07 2017 17:35:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Thu Dec 07 2017 17:35:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Thu Dec 07 2017 17:35:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Thu Dec 07 2017 17:35:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
+Thu Dec 07 2017 17:35:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Thu Dec 07 2017 17:35:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this cinderella
+Thu Dec 07 2017 17:35:30 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Thu Dec 07 2017 17:38:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js do-what-it-says
+Thu Dec 07 2017 17:38:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js
+Thu Dec 07 2017 17:38:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this cinderella
+Thu Dec 07 2017 17:38:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this the last samurai
+Thu Dec 07 2017 17:38:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js my-tweets
+Thu Dec 07 2017 17:38:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this despicable me
+Thu Dec 07 2017 17:38:31 GMT-0600 (CST)  /usr/local/bin/node /Users/mary/Desktop/HW/liri-node-app/liri.js movie-this 13 hours
