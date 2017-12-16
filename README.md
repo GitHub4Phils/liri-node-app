@@ -28,7 +28,7 @@ spotify-this [title]
 
 spotify-this [ no title]
 
-![spotify this no title](spotifyNoTitle.png)
+![spotify this no title](spotifyNotitle.png)
 
 
 
