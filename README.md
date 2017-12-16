@@ -12,6 +12,26 @@ My tweets:
 
 ![my tweets](mytweets.png)
 
+
+movie-this [title]
+
+![movie this with title](movieThisTitle.png)
+
+movie-this [ no title]
+
+![movie this no title](movieThisNoTitle.png)
+
+
+spotify-this [title]
+
+![spotify this with title](spotifyWithTitle.png)
+
+spotify-this [ no title]
+
+![spotify this no title](spotifyNoTitle.png)
+
+
+
 Do what it says (random.txt)
 random.txt shows the lines of codes that needed to be automatically executed
 
