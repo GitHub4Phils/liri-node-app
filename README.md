@@ -46,6 +46,6 @@ passing the "do-what-it-says" argument will execute what is in random.txt
 ![do what it says](dowhatitSays.png)
 
 
-and it logs everything the program has been run
+and it logs everytime the program has been run
 
 ![log file](logfile.png)
