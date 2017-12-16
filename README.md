@@ -4,9 +4,13 @@ this is a node application which uses spotify, twitter and MDB APIs as a selecti
 
 the script takes in arguments and shows you the information upon that arguments
 
+node liri.js [command] [argument]
+
+list of possible commands:
 1. my-tweets (shows the 20 most recent tweets)
 1. movie-this [movie-name] (shows the info of that movie name)
 1. spotify-this-song [song] (shows info for the song provided)
+1. do-what-it-says
 
 My tweets:
 
